@@ -1,9 +1,14 @@
 
 
-RL 
+notes, replicated programming assignments modified to run offline
+demos
 
-Coursera RL, Added working ipynb workbooks which run outside the coursera VMs. Can work in standalone mode when running "jupyter notebook"
+Coursera Reinforcement Learning
+Fundamentals
+Sampling
+Fn Approximation
 
-Summary and extensions of RL material
+ 
+
 
  
